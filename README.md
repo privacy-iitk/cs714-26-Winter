@@ -1,2 +1,2 @@
-# cs714-26-Winter
+# CS714: Secure Computation
 Course Website for CS714
