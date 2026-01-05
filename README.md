@@ -14,8 +14,6 @@ Email: avadapalli@cse.iitk.ac.in
 - **Sonu Sharma** — sonusharma24@cse.iitk.ac.in  
 - **Paritosh Shukla** — paritoshs24@cse.iitk.ac.in  
 - **Rohit Kumar** — krohit24@cse.iitk.ac.in  
-  - PhD, CSE  
-  - CS714 (Supervisor: Adithya Vadapalli)  
 - **Yash Prabhat** — yashp25@cse.iitk.ac.in  
 
 ---
@@ -47,7 +45,7 @@ Additional reading material and research papers will be announced during the cou
 
 ## Schedule
 
-Classes are held on **Mondays and Tuesdays**, from **January 5 to April 24**.
+Classes are held on **Mondays, 12 PM and Tuesdays, 9AM**, at **KD101** from **January 5 to April 24**.
 
 <table>
 <thead>
