@@ -64,7 +64,7 @@ Classes are held on **Mondays, 12 PM and Tuesdays, 9AM**, at **KD101** from **Ja
 <td>1</td><td>Monday</td><td>Jan 5</td><td></td><td></td><td></td>
 </tr>
 <tr style="background-color:#f2f2f2;">
-<td>2</td><td>Tuesday</td><td>Jan 6</td><td></td><td></td><td></td>
+<td>2</td><td>Tuesday</td><td>Jan 6</td><td> Introduction </td><td></td><td></td>
 </tr>
 
 <tr>
