@@ -55,7 +55,7 @@ Classes are held on **Mondays, 12 PM and Tuesdays, 9AM**, at **KD101** from **Ja
 <th>Date</th>
 <th>Topic</th>
 <th>Mandatory Reading</th>
-<th>Compulsory Reading</th>
+<th>Optional Reading</th>
 </tr>
 </thead>
 <tbody>
