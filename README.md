@@ -68,17 +68,17 @@ Classes are held on **Mondays, 12 PM and Tuesdays, 9AM**, at **KD101** from **Ja
 </tr>
 
 <tr>
-<td>3</td><td>Monday</td><td>Jan 12</td><td> Basics of Probability </td><td></td><td></td>
+<td>3</td><td>Monday</td><td>Jan 12</td><td> Basics of Probability </td> Chapter 2<td></td><td></td>
 </tr>
 <tr>
-<td>4</td><td>Tuesday</td><td>Jan 13</td><td> Indistinguishability </td><td></td><td></td>
+<td>4</td><td>Tuesday</td><td>Jan 13</td><td> Indistinguishability </td><td>Chapter 2</td><td></td>
 </tr>
 
 <tr style="background-color:#f2f2f2;">
-<td>5</td><td>Monday</td><td>Jan 19</td><td> Interactive Systems </td><td></td><td></td>
+<td>5</td><td>Monday</td><td>Jan 19</td><td> Interactive Systems </td><td>Chapter 2</td><td></td>
 </tr>
 <tr style="background-color:#f2f2f2;">
-<td>6</td><td>Tuesday</td><td>Jan 20</td><td> Chapter 2 Recap </td><td></td><td></td>
+<td>6</td><td>Tuesday</td><td>Jan 20</td><td> Chapter 2 Recap </td><td>Chapter 2</td><td></td>
 </tr>
 
 <tr>
