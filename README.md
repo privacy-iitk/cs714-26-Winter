@@ -82,7 +82,7 @@ Classes are held on **Mondays, 12 PM and Tuesdays, 9AM**, at **KD101** from **Ja
 </tr>
 
 <tr>
-<td>7</td><td>Monday</td><td>Jan 26</td><td></td><td></td><td></td>
+<td>7</td><td>Monday</td><td>Jan 26</td><td>No Class (Republic Day) </td><td></td><td></td>
 </tr>
 <tr>
 <td>8</td><td>Tuesday</td><td>Jan 27</td><td></td><td></td><td></td>
