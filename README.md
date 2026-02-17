@@ -89,21 +89,21 @@ Classes are held on **Mondays, 12 PM and Tuesdays, 9AM**, at **KD101** from **Ja
 </tr>
 
 <tr style="background-color:#f2f2f2;">
-<td>9</td><td>Monday</td><td>Feb 2</td><td>Chapter 3, Multiplication in Sharmir Secret Sharing </td><td></td><td></td>
+<td>9</td><td>Monday</td><td>Feb 2</td><td>Chapter 3, Multiplication in Sharmir Secret Sharing </td><td>Chapter 3</td><td></td>
 </tr>
 <tr style="background-color:#f2f2f2;">
 <td>10</td><td>Tuesday</td><td>Feb 3</td><td> Other MPC Protocols </td><td></td><td></td>
 </tr>
 
 <tr>
-<td>11</td><td>Monday</td><td>Feb 9</td><td>Intuition of Security Proofs in CEPS</td><td>  </td><td></td>
+<td>11</td><td>Monday</td><td>Feb 9</td><td>Intuition of Security Proofs in CEPS</td><td>Chapter 3</td><td></td>
 </tr>
 <tr>
-<td>12</td><td>Tuesday</td><td>Feb 10</td><td> Formal Security Proofs </td><td></td><td></td>
+<td>12</td><td>Tuesday</td><td>Feb 10</td><td> Formal Security Proofs </td><td>Chapter 3</td><td></td>
 </tr>
 
 <tr style="background-color:#f2f2f2;">
-<td>13</td><td>Monday</td><td>Feb 16</td><td></td><td></td><td></td>
+<td>13</td><td>Monday</td><td>Feb 16</td><td>Optimality of Corruption Bound</td><td>Chapter 3</td><td></td>
 </tr>
 <tr style="background-color:#f2f2f2;">
 <td>14</td><td>Tuesday</td><td>Feb 17</td><td></td><td></td><td></td>
@@ -131,7 +131,7 @@ Classes are held on **Mondays, 12 PM and Tuesdays, 9AM**, at **KD101** from **Ja
 </tr>
 
 <tr style="background-color:#f2f2f2;">
-<td>21</td><td>Monday</td><td>Mar 16</td><td> Optimality of Corruption Bound </td><td></td><td></td>
+<td>21</td><td>Monday</td><td>Mar 16</td><td></td><td></td><td></td>
 </tr>
 <tr style="background-color:#f2f2f2;">
 <td>22</td><td>Tuesday</td><td>Mar 17</td><td></td><td></td><td></td>
