@@ -131,7 +131,7 @@ Classes are held on **Mondays, 12 PM and Tuesdays, 9AM**, at **KD101** from **Ja
 </tr>
 
 <tr style="background-color:#f2f2f2;">
-<td>21</td><td>Monday</td><td>Mar 16</td><td></td><td></td><td></td>
+<td>21</td><td>Monday</td><td>Mar 16</td><td> Optimality of Corruption Bound </td><td></td><td></td>
 </tr>
 <tr style="background-color:#f2f2f2;">
 <td>22</td><td>Tuesday</td><td>Mar 17</td><td></td><td></td><td></td>
