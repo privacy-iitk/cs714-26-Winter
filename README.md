@@ -99,7 +99,7 @@ Classes are held on **Mondays, 12 PM and Tuesdays, 9AM**, at **KD101** from **Ja
 <td>11</td><td>Monday</td><td>Feb 9</td><td>Intuition of Security Proofs in CEPS</td><td>Chapter 3</td><td></td>
 </tr>
 <tr>
-<td>12</td><td>Tuesday</td><td>Feb 10</td><td> Formal Security Proofs </td><td>Chapter 3</td><td></td>
+<td>12</td><td>Tuesday</td><td>Feb 10</td><td> Formal Security Proofs </td><td>Chapter 3</td><td>[How to Simulate it](https://eprint.iacr.org/2016/046.pdf)</td>
 </tr>
 
 <tr style="background-color:#f2f2f2;">
