@@ -148,7 +148,7 @@ Classes are held on **Mondays, 12 PM and Tuesdays, 9AM**, at **KD101** from **Ja
 <td>25</td><td>Monday</td><td>Mar 30</td><td></td><td></td><td></td>
 </tr>
 <tr style="background-color:#f2f2f2;">
-<td>26</td><td>Tuesday</td><td>Mar 31</td><td></td><td></td><td></td>
+<td>26</td><td>Tuesday</td><td>Mar 31</td><td> Holiday No Class </td><td></td><td></td>
 </tr>
 
 <tr>
