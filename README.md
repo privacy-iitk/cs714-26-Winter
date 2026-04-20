@@ -106,7 +106,7 @@ Classes are held on **Mondays, 12 PM and Tuesdays, 9AM**, at **KD101** from **Ja
 <td>13</td><td>Monday</td><td>Feb 16</td><td>Optimality of Corruption Bound</td><td>Chapter 3</td><td></td>
 </tr>
 <tr style="background-color:#f2f2f2;">
-<td>14</td><td>Tuesday</td><td>Feb 17</td><td></td><td></td><td></td>
+<td>14</td><td>Tuesday</td><td>Feb 17</td><td> Midsem Prep </td><td></td><td></td>
 </tr>
 
 <tr>
