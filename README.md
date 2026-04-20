@@ -113,14 +113,14 @@ Classes are held on **Mondays, 12 PM and Tuesdays, 9AM**, at **KD101** from **Ja
 <td>15</td><td>Monday</td><td>Feb 23</td> Midsem <td></td><td></td><td></td>
 </tr>
 <tr>
-<td>16</td><td>Tuesday</td><td>Feb 24</td><td> Midsem </td><td></td><td></td>
+<td>16</td><td>Tuesday</td><td>Feb 24</td>Midsem<td>  </td><td></td><td></td>
 </tr>
 
 <tr style="background-color:#f2f2f2;">
-<td>17</td><td>Monday</td><td>Mar 2</td><td></td><td> Midsem Break </td><td></td>
+<td>17</td><td>Monday</td><td>Mar 2</td><td> Midsem Break </td><td> </td><td></td>
 </tr>
 <tr style="background-color:#f2f2f2;">
-<td>18</td><td>Tuesday</td><td>Mar 3</td><td></td><td> Midsem Break </td><td></td>
+<td>18</td><td>Tuesday</td><td>Mar 3</td><td>Midsem Break</td><td>  </td><td></td>
 </tr>
 
 <tr>
