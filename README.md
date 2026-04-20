@@ -155,7 +155,7 @@ Classes are held on **Mondays, 12 PM and Tuesdays, 9AM**, at **KD101** from **Ja
 <td>27</td><td>Monday</td><td>Apr 6</td><td></td><td></td><td></td>
 </tr>
 <tr>
-<td>28</td><td>Tuesday</td><td>Apr 7</td><td></td><td></td><td></td>
+<td>28</td><td>Tuesday</td><td>Apr 7</td><td> UC Security Recap </td><td></td><td></td>
 </tr>
 
 <tr style="background-color:#f2f2f2;">
