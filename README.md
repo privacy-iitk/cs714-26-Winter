@@ -110,10 +110,10 @@ Classes are held on **Mondays, 12 PM and Tuesdays, 9AM**, at **KD101** from **Ja
 </tr>
 
 <tr>
-<td>15</td><td>Monday</td><td>Feb 23</td> Midsem <td></td><td></td><td></td>
+<td>15</td><td>Monday</td><td>Feb 23</td><td>Midsem</td><td></td><td></td>
 </tr>
 <tr>
-<td>16</td><td>Tuesday</td><td>Feb 24</td>Midsem<td>  </td><td></td><td></td>
+<td>16</td><td>Tuesday</td><td>Feb 24</td><td> Midsem </td><td></td><td></td>
 </tr>
 
 <tr style="background-color:#f2f2f2;">
