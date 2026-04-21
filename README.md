@@ -159,7 +159,7 @@ Classes are held on **Mondays, 12 PM and Tuesdays, 9AM**, at **KD101** from **Ja
 </tr>
 
 <tr style="background-color:#f2f2f2;">
-<td>29</td><td>Monday</td><td>Apr 13</td><td> Intro to GC and Secret Shares</td><td></td><td></td>
+<td>29</td><td>Monday</td><td>Apr 13</td><td> Intro to GC and Secret Shares</td><td></td><td> Pragmatic MPC: https://securecomputation.org </td>
 </tr>
 <tr style="background-color:#f2f2f2;">
 <td>30</td><td>Tuesday</td><td>Apr 14</td><td>No Class</td><td></td><td></td>
